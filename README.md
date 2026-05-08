@@ -40,8 +40,26 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📂 주요 프로젝트
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=InSeok9068&show_icons=true&theme=transparent)
+### 🔹 Lightweight Go Backend Architecture
+Go + HTMX 기반의 서버 중심 웹 아키텍처를 실험하고 있습니다.  
+단순하고 명시적인 구조와 SSR 기반 UI 흐름을 지향합니다.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InSeok9068&layout=compact&theme=transparent)
+> Go / Echo / HTMX / Alpine.js / SQLite
+
+---
+
+### 🔹 Vue 기반 SPA 구조 연구
+Vue 기반의 CSR 구조와 상태 관리, 컴포넌트 설계를 중심으로 개발하고 있습니다.  
+사용자 경험과 생산성을 고려한 프론트엔드 구조를 지향합니다.
+
+> Vue 3 / TypeScript / Pinia / TanStack Query
+
+---
+
+### 🔹 PocketBase 기반 MVP 플랫폼
+PocketBase와 PocketPages 기반으로 빠르게 MVP를 제작하고 있습니다.  
+간단한 배포 구조와 빠른 피드백 사이클을 중요하게 생각합니다.
+
+> PocketBase / HTMX / Alpine.js / UnoCSS

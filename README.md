@@ -56,3 +56,11 @@ PocketBase와 PocketPages 기반으로 빠르게 MVP를 제작하고 있습니�
 간단한 배포 구조와 빠른 피드백 사이클을 중요하게 생각합니다.
 
 > PocketBase / HTMX / Alpine.js / UnoCSS
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=InSeok9068&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InSeok9068&layout=compact&theme=transparent)

@@ -61,6 +61,6 @@ PocketBase와 PocketPages 기반으로 빠르게 MVP를 제작하고 있습니�
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=InSeok9068&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=InSeok9068&show_icons=true&theme=transparent&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InSeok9068&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InSeok9068&layout=compact&theme=transparent&hide_border=true)

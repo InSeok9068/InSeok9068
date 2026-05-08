@@ -41,7 +41,7 @@ Go + HTMX 기반의 서버 중심 웹 아키텍처를 실험하고 있습니다.
 
 > Go / Echo / HTMX / Alpine.js / SQLite
 
-🌐 https://deario.toy-project.n-e.kr
+🔗 [Deario](https://deario.toy-project.n-e.kr)
 
 ---
 
@@ -51,7 +51,7 @@ Vue 기반의 CSR 구조와 상태 관리, 컴포넌트 설계를 중심으로 �
 
 > Vue 3 / TypeScript / Pinia / TanStack Query
 
-🌐 https://development-support.p-e.kr
+🔗 [Development Support](https://development-support.p-e.kr)
 
 ---
 
@@ -61,7 +61,7 @@ PocketBase와 PocketPages 기반으로 빠르게 MVP를 제작하고 있습니�
 
 > PocketBase / HTMX / Alpine.js / UnoCSS
 
-🌐 https://booklog.development-support.o-r.kr
+🔗 [Booklog](https://booklog.development-support.o-r.kr)
 
 ---
 

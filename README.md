@@ -1,5 +1,7 @@
 ## 🚀 소개
 
+![](https://komarev.com/ghpvc/?username=InSeok9068&color=blue)
+
 - 💼 Java / Spring 기반 백엔드 개발자
 - ⚡ 단순하고 유지보수하기 쉬운 아키텍처를 선호
 - 🧩 취미 및 사이드 프로젝트로 Go / Node.js 활용

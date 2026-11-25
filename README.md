@@ -1,75 +1,29 @@
-## 🚀 소개
+# 👋 About Me
 
-![](https://komarev.com/ghpvc/?username=InSeok9068&color=blue)
+Java / Spring 기반의 백엔드 개발자입니다.
 
-- 💼 Java / Spring 기반 백엔드 개발자
-- 🏢 모바일 쿠폰 거래 플랫폼 ‘팔라고(PALRAGO)’ 리드 개발
-- ⚡ 단순하고 유지보수하기 쉬운 아키텍처를 선호
-- 🧩 취미 및 사이드 프로젝트로 Go / Node.js 활용
-- 🎨 Vue 기반 프론트엔드 개발 가능
-- 🌱 HTMX 기반 서버 중심 UI 구조에도 관심
-- 🛠 빠른 MVP 개발과 실용적인 서비스 제작 지향
+모바일 쿠폰 거래 플랫폼 **[팔라고(PALRAGO)](https://www.palrago.com/)**의 리드 개발자로 일하고 있습니다.
 
----
+단순하고 명시적이며, 오랫동안 유지보수할 수 있는 소프트웨어를 지향합니다.
 
-## 🧰 기술 스택
+## Tech Stack
 
-### Backend
+**Backend**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### Frontend
+**Frontend**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-77C1D2?style=for-the-badge&logo=alpinedotjs&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-77C1D2?style=flat-square&logo=alpinedotjs&logoColor=black)
 
-### Infra & Tools
+**Infra & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 📂 주요 프로젝트
-
-### 🔹 Lightweight Go Backend Architecture
-Go + HTMX 기반의 서버 중심 웹 아키텍처를 실험하고 있습니다.  
-단순하고 명시적인 구조와 SSR 기반 UI 흐름을 지향합니다.
-
-> Go / Echo / HTMX / Alpine.js / SQLite
-
-🔗 [Deario](https://deario.toy-project.n-e.kr)
-
----
-
-### 🔹 Vue 기반 SPA 구조 연구
-Vue 기반의 CSR 구조와 상태 관리, 컴포넌트 설계를 중심으로 개발하고 있습니다.  
-사용자 경험과 생산성을 고려한 프론트엔드 구조를 지향합니다.
-
-> Vue 3 / TypeScript / Pinia / TanStack Query
-
-🔗 [Development Support](https://development-support.p-e.kr)
-
----
-
-### 🔹 PocketBase 기반 MVP 플랫폼
-PocketBase와 PocketPages 기반으로 빠르게 MVP를 제작하고 있습니다.  
-간단한 배포 구조와 빠른 피드백 사이클을 중요하게 생각합니다.
-
-> PocketBase / HTMX / Alpine.js / UnoCSS
-
-🔗 [Booklog](https://booklog.development-support.o-r.kr)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=InSeok9068&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InSeok9068&layout=compact)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)

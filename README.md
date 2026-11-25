@@ -20,4 +20,4 @@ Java / Spring 기반의 백엔드 개발자입니다.
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-3366CC?style=flat-square&logo=htmx&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-77C1D2?style=flat-square&logo=alpinedot
+![Alpine.js](https://img.shields.io/badge/Alpine.js-77C1D2?style=flat-square&logo=alpinedot)
